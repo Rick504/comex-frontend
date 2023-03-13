@@ -30,3 +30,9 @@ Email: rick.rios@dne.com.br/rick.rios@onebox.one
 
     npm run build
 
+### acessando paginas:
+
+- http://localhost:5173 - home page
+- http://localhost:5173/pages/clientes/index.html - clientes
+- http://localhost:5173/pages/produtos/index.html - produtos
+- http://localhost:5173/pages/categorias/index.html - categorias
